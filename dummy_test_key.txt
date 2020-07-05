@@ -1,0 +1,5 @@
+eages = 46
+vertices = 20
+freeman network centrality = 0.099415
+0 -> 16 -> 9 -> 10 -> 3 -> 2 -> 13 -> 1
+0 -> 15 -> 14 -> 13 -> 1
